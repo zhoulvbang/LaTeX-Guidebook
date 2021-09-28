@@ -26,7 +26,7 @@ Happy LaTeX！
 
 ## 2021-09-28
 
-开学的诸多杂事告一段落，开始填坑。
+开学的诸多杂事告一段落，开始填坑（挖坑？）。
 
 最近可能还是不会正式的写这个文档，而是翻译一个文档《LaTeX Cookbook》，这本书写的很好，暑假花了一定的时间看了看这本书，随起心将其翻译一下，翻译的项目在<https://github.com/zhoulvbang/LaTeX-Material/tree/LaTeX-Cookbook>。也不知道啥时候可以把坑填完。
 
